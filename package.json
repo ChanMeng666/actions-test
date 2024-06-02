@@ -1,5 +1,5 @@
 {
-  "homepage": ".",
+  "homepage": "index.html",
   "name": "react-tailwind-agency",
   "private": true,
   "version": "0.0.0",
